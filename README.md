@@ -1,4 +1,4 @@
-                                                                   <h1># Git Basic Commands<h1>
+                                                               # Git Basic Commands
 
 git init->initialized empty git repo and it is called as master branch<br/>
 git add->save the changes to the local repo<br/>
