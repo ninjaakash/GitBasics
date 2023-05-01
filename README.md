@@ -1,5 +1,5 @@
-# GitBasics
-All basic git command<br/>
+                                                                   <h1># Git Basic Commands<h1>
+
 git init->initialized empty git repo and it is called as master branch<br/>
 git add->save the changes to the local repo<br/>
 git commit->save the changes to the staging area<br/>
